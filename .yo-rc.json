@@ -22,8 +22,10 @@
     "entitySuffix": "",
     "gitCompany": "",
     "jhiPrefix": "jhi",
-    "jhipsterVersion": "7.6.0",
-    "languages": ["en"],
+    "jhipsterVersion": "4.14.5",
+    "languages": [
+      "en"
+    ],
     "messageBroker": false,
     "nativeLanguage": "en",
     "otherModules": [],
@@ -42,7 +44,8 @@
     "testFrameworks": [],
     "useSass": true,
     "websocket": false,
-    "withAdminUi": true
+    "withAdminUi": true,
+    "enableSocialSignIn": false
   },
   "git-provider": "GitHub",
   "git-company": "hzair",
